@@ -1,0 +1,11 @@
+filterpy~=1.4.5
+scikit-image~=0.17.2
+lap
+numpy~=1.16.2
+matplotlib~=3.3.4
+h5py
+Keras==2.1.5
+tensorflow==1.13.2
+opencv-python~=4.5.5.64
+pillow~=8.4.0
+scipy~=1.5.4
