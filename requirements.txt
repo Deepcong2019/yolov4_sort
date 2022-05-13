@@ -5,7 +5,7 @@ numpy
 matplotlib
 h5py
 Keras==2.1.5
-tensorflow==1.13.2
+tensorflow==2.5.3
 opencv-python
 pillow
 scipy
